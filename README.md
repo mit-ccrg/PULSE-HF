@@ -2,6 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Paper](https://img.shields.io/badge/paper-eClinicalMedicine-blue)](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(26)00030-1/fulltext)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-PULSE--HF-yellow)](https://huggingface.co/teyaberg/PULSE-HF)
 
 **PULSE–HF** is a deep learning framework that forecasts whether a patient’s **left ventricular ejection fraction (LVEF)** will decline below **40% within one year** based on a **standard 12-lead ECG** and **prior LVEF measurements**. It is designed specifically for patients with a history of heart failure.
 
